@@ -1,2 +1,2 @@
 # timbond
-Personal site blogger and video maker
+Personal site blogger and video maker!
